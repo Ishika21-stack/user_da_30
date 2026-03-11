@@ -1,1 +1,4 @@
 Batch ca
+
+Time 7.30
+but class starts at 7.40
